@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Astro-gram
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on stuff
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning how to make a canvas html game engine from scratch
+- 💞️ I’m looking to collaborate on nothing right now
 - 📫 You can't reach me
 
 <!---
