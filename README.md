@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben Webster
 - 👀 I’m interested in web development & video creation
-- 🌱 I’m currently learning to create the best videos ever! 😎
+- 🌱 I’m currently learning Deep Learning Neural Networks! 😎
 - 💞️ I’m looking to collaborate on interesting projects. 
 
 <!---
